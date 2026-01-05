@@ -449,6 +449,17 @@ CONSTRAINT fk_modulo_vivienda
 );
 
 
+CREATE TABLE cat_region (
+    region_id CHAR(1) PRIMARY KEY,
+    region_nombre VARCHAR(20)
+);
+
+CREATE TABLE cat_tloc (
+	tloc_id CHAR(1) PRIMARY KEY,
+	tloc_nombre VARCHAR(20),
+	tloc_descripcion VARCHAR(30)
+);
+
 --ENTIDAD
 --   ↓
 --MUNICIPIO
@@ -458,3 +469,4 @@ CONSTRAINT fk_modulo_vivienda
 --THOGAR   (llavehog, llaveviv)
 --   ↓
 --TSDEM (llavesde, llavehog, llaveviv) - TMODULO   (llavemod, llavehog, llaveviv)
+
