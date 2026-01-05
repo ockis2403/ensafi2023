@@ -1,6 +1,9 @@
 # ensafi2023
 
 La Encuesta Nacional sobre Salud Financiera (ENSAFI) 2023 se encuentra disponible en múltiples archivos CSV codificados.
+
+https://www.inegi.org.mx/programas/ensafi/2023/#microdatos
+
 Para este proyecto, los datos fueron integrados en una base de datos PostgreSQL diseñada específicamente para el análisis.
 
 El proceso incluyó:
