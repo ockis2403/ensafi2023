@@ -15,14 +15,12 @@ El proceso incluyó:
 
 # ENSAFI 2023 - Base de datos PostgreSQL
 
-Este repositorio contiene:
+Este repositorio contiene los elementos minimos para crear la base de datos:
 
 - Scripts SQL para creación de tablas
 - Archivos CSV limpios listos para importar
 - Diagrama entidad relación (ERD)
-- Notebook con codigo para la conexión y consulta de SQL
   
-
 ## Orden de carga 
 
 1. entidad
@@ -31,3 +29,8 @@ Este repositorio contiene:
 4. thogar
 5. tsdem
 6. tmodulo
+
+
+# Notebook
+
+- Archivo de Jupyter con codigo de conexión, consultas sql y creación de gráficos.
