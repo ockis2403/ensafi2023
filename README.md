@@ -34,3 +34,7 @@ Este repositorio contiene los elementos minimos para crear la base de datos:
 # Notebook
 
 - Archivo de Jupyter con codigo de conexión, consultas sql y creación de gráficos.
+
+# CSV
+
+- Archivos de texto con el resultados de las consultas hechas a la base de datos.
