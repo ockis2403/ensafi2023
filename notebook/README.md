@@ -31,3 +31,7 @@ Este notebook contiene el flujo completo y ejecutable de:
 
 Las imágenes generadas por el notebook de visualización se guardan en
 una carpeta del repositorio para facilitar su consulta.
+
+## Ejecución
+
+El notebook de visualización puede ejecutarse localmente o abrirse directamente en Google Colab desde GitHub, ya que los datos utilizados se cargan desde archivos CSV alojados en este repositorio.
