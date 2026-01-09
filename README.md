@@ -8,7 +8,7 @@ El objetivo del proyecto es analizar la relación entre **ingresos, privaciones 
 
 La visualización puede ejecutarse directamente en **Google Colab**, sin necesidad de descargar archivos ni configurar una base de datos local:
 
-[![Open In Colab](https://colab.research.google.com/github/ockis2403/ensafi2023/blob/main/notebook/ensafi_parte_B_visualizacion.ipynb)
+[Open In Colab](https://colab.research.google.com/github/ockis2403/ensafi2023/blob/main/notebook/ensafi_parte_B_visualizacion.ipynb)
 
 
 ---
