@@ -1,0 +1,23 @@
+rango_id,rango_descripcion,flag_privacion,promedio_emociones_acum
+01,"Hasta $3,600",con privacion,1.815516730826177
+02,"De $3,601 a $6,100",con privacion,1.7949731714205026
+03,"De $6,101 a $8,100",con privacion,1.741405849153412
+04,"De $8,101 a $9,900",con privacion,1.69185360094451
+05,"De $9,901 a $12,100",con privacion,1.6666666666666667
+06,"De $12,101 a $14,500",con privacion,1.7577319587628866
+07,"De $14,501 a $17,600",con privacion,1.6534810126582278
+08,"De $17,601 a $21,900",con privacion,1.5982721382289418
+09,"De $21,901 a $29,100",con privacion,1.6391752577319587
+10,"De $29,101 a $45,100",con privacion,1.53125
+11,"Más de $45,100",con privacion,2.0754716981132075
+01,"Hasta $3,600",sin privacion,1.015552099533437
+02,"De $3,601 a $6,100",sin privacion,1.0901001112347053
+03,"De $6,101 a $8,100",sin privacion,1.0971014492753624
+04,"De $8,101 a $9,900",sin privacion,1.1125319693094629
+05,"De $9,901 a $12,100",sin privacion,1.1275239107332624
+06,"De $12,101 a $14,500",sin privacion,0.8826291079812206
+07,"De $14,501 a $17,600",sin privacion,0.9575471698113207
+08,"De $17,601 a $21,900",sin privacion,0.9308943089430894
+09,"De $21,901 a $29,100",sin privacion,1.0163398692810457
+10,"De $29,101 a $45,100",sin privacion,0.9007518796992481
+11,"Más de $45,100",sin privacion,0.8541666666666666
