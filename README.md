@@ -4,6 +4,13 @@ Este repositorio contiene el trabajo final del **Módulo III: Visualización de 
 
 El objetivo del proyecto es analizar la relación entre **ingresos, privaciones económicas y estrés emocional**, y comunicar los hallazgos mediante visualizaciones construidas en Python, siguiendo la rúbrica del curso.
 
+## Ejecución
+
+La visualización puede ejecutarse directamente en **Google Colab**, sin necesidad de descargar archivos ni configurar una base de datos local:
+
+[![Open In Colab](https://colab.research.google.com/github/ockis2403/ensafi2023/blob/main/notebook/ensafi_parte_B_visualizacion.ipynb)
+
+
 ---
 
 ## Estructura del proyecto
