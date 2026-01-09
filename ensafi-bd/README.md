@@ -27,7 +27,7 @@ El proceso seguido para construir la base de datos fue el siguiente:
    Los microdatos, catálogos y documentos se organizaron en carpetas separadas para facilitar su consulta y mantenimiento.
 
 4. **Diseño del modelo de datos (ERD)**  
-   A partir de la estructura de los archivos y las claves de identificación proporcionadas por el INEGI, se diseñó un diagrama entidad–relación (ERD) que representa la relación entre vivienda, hogar, personas y cuestionario.
+   A partir de la estructura de los archivos y las claves de identificación proporcionadas por el INEGI, se diseñó un diagrama entidad–relación (ERD) que representa la relación entre vivienda, hogar, sociodemograficas de las personas y cuestionario a la persona seleccionada.
 
 5. **Creación de la base de datos**  
    Se elaboraron scripts SQL para la creación de la base de datos y sus tablas en PostgreSQL, respetando las relaciones y dependencias entre los distintos conjuntos de datos.
