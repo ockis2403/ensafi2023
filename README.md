@@ -33,12 +33,6 @@ Ambas visualizaciones incluyen títulos, subtítulos, escalas, anotaciones, fuen
 
 ---
 
-## Reproducibilidad
-
-Los notebooks están preparados para ejecutarse directamente en **Google Colab**, cargando los datos desde este repositorio, sin necesidad de configurar una base de datos local.
-
----
-
 ## Autoría
 
 **Autor:** Oscar Gutiérrez Leal  
