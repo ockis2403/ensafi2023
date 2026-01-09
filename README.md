@@ -1,40 +1,39 @@
-# ensafi2023
+# ENSAFI 2023 – Visualización de Datos
 
-La Encuesta Nacional sobre Salud Financiera (ENSAFI) 2023 se encuentra disponible en múltiples archivos CSV codificados.
+Este repositorio contiene el trabajo final del **Módulo III: Visualización de Datos**, basado en la **Encuesta Nacional sobre Salud Financiera (ENSAFI) 2023** del INEGI.
 
-https://www.inegi.org.mx/programas/ensafi/2023/#microdatos
+El objetivo del proyecto es analizar la relación entre **ingresos, privaciones económicas y estrés emocional**, y comunicar los hallazgos mediante visualizaciones construidas en Python, siguiendo la rúbrica del curso.
 
-Para este proyecto, los datos fueron integrados en una base de datos PostgreSQL diseñada específicamente para el análisis.
+---
 
-El proceso incluyó:
-- Limpieza y estandarización de variables
-- Integración de cuatro archivos CSV
-- Uso de catálogos oficiales de INEGI
-- Consultas SQL para generar las tablas analíticas utilizadas en las visualizaciones
+## Estructura del proyecto
 
+El trabajo se desarrolló en tres etapas:
 
-# ENSAFI 2023 - Base de datos PostgreSQL
+### 1. Construcción de la base de datos
+A partir de los microdatos originales de la ENSAFI, se construyó una base de datos relacional en PostgreSQL.  
+Esta etapa incluye los archivos CSV originales, catálogos, scripts SQL y documentación de apoyo.
 
-Este repositorio contiene los elementos minimos para crear la base de datos:
+### 2. Extracción de datos
+Se realizaron consultas SQL para generar dos conjuntos de datos, los cuales fueron exportados como archivos CSV y utilizados posteriormente para las visualizaciones.
 
-- Scripts SQL para creación de tablas
-- Archivos CSV limpios listos para importar
-- Diagrama entidad relación (ERD)
-  
-## Orden de carga 
+### 3. Visualización de datos
+Con los datos procesados se elaboraron dos visualizaciones principales:
+- Gráfico de barras horizontales apiladas al 100%
+- Gráfico de líneas múltiples
 
-1. entidad
-2. municipio
-3. tvivienda
-4. thogar
-5. tsdem
-6. tmodulo
+Ambas visualizaciones incluyen títulos, subtítulos, escalas, anotaciones, fuente y autoría, conforme a la rúbrica del curso.
 
+---
 
-# Notebook
+## Reproducibilidad
 
-- Archivo de Jupyter con codigo de conexión, consultas sql y creación de gráficos.
+Los notebooks están preparados para ejecutarse directamente en **Google Colab**, cargando los datos desde este repositorio, sin necesidad de configurar una base de datos local.
 
-# CSV
+---
 
-- Archivos de texto con el resultados de las consultas hechas a la base de datos.
+## Autoría
+
+**Autor:** Oscar Gutiérrez Leal  
+**Fuente de datos:** Encuesta Nacional sobre Salud Financiera (ENSAFI) 2023 – INEGI  
+**Fecha:** Enero 2026
