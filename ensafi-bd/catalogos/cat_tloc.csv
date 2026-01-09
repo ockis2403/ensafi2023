@@ -1,0 +1,5 @@
+tloc_id,tloc_nombre,tloc_descripcion
+1,grande,100 000 y más habitantes
+2,mediana,15 000 a 99 999 habitantes
+3,pequeña,2 500 a 14 999 habitantes
+4,muy pequeña,menor a 2 500 habitantes
