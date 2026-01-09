@@ -460,6 +460,11 @@ CREATE TABLE cat_tloc (
 	tloc_descripcion VARCHAR(30)
 );
 
+CREATE TABLE cat_rango_ingreso(
+    rango_id CHAR(2) PRIMARY KEY,
+    rango_descripcion VARCHAR(30)
+);
+
 --ENTIDAD
 --   ↓
 --MUNICIPIO
@@ -469,4 +474,5 @@ CREATE TABLE cat_tloc (
 --THOGAR   (llavehog, llaveviv)
 --   ↓
 --TSDEM (llavesde, llavehog, llaveviv) - TMODULO   (llavemod, llavehog, llaveviv)
+
 
